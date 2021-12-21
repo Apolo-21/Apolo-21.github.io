@@ -1,0 +1,10 @@
+name: "Apolo-21, ready to launch!"
+output_dir: "."
+navbar:
+  title: "Apolo-21, ready to launch!"
+  subtitle: "Ready to launch!"
+
+output:
+  html_document:
+    theme: united
+    highlight: textmate|
